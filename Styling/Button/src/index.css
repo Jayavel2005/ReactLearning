@@ -1,0 +1,11 @@
+.externalStyle{
+    background-color: aquamarine;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    color: whitesmoke;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
